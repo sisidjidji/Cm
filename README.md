@@ -1,15 +1,17 @@
 # Welcome To Reading01:
 
-In this reading we are going to talk about [Github](https://github.com/ ) 
+In this reading we are going to talk about [Github](https://github.com/ ) .the followings are the topics of 
+this reading:
 
  1. GitHub Pages
-   1.1 Learning about GitHub
-   1.2 Using GitHub
-      * create a repository
-      * Some Git commend
+   - Learning about GitHub
+   - Using GitHub
+      - create a repository
+      - Some Git commend
+    
  2. GitHub Markdown Syntax
-   2.1 define markdown
-   2.2 some markdown syntax
+   - define markdown
+   - 2.2 some markdown syntax
    
 
 
@@ -32,27 +34,27 @@ In this reading we are going to talk about [Github](https://github.com/ )
 4. Type a short, memorable name for your repository. For example, "hello-world".
        ![](images/create-repository-name.png/)
 
-### - Somme Git command:
+### Somme Git Command:
 
--  Git clone : this command allow us to import the repository on our local machine by using the following command :
+- **Git clone** : this command allow us to import the repository on our local machine by using the following command :
 
-**Git clone ' the link to your repository'**
+       **Git clone ' the link to your repository'**
         
--  Git status: we use this command to chack the status of our repository by using the following command :
+- **Git status**: we use this command to chack the status of our repository by using the following command :
 
-**git status**
+       **git status**
    
-- Git add : this command add all the modification 
+- **Git add** : this command add all the modification 
 
-**Git add .**
+      **Git add .**
   
--  Git commit : Commit all local changes in tracked files
+- **Git commit** : Commit all local changes in tracked files
 
-**Git commit -md**
+       **Git commit -md**
     
-- Git push : command is used to upload local repository content to a remote repository
+- **Git push** : command is used to upload local repository content to a remote repository
 
-**Git push origin master**
+       **Git push origin master**
     
     
 ## 2.GitHub Markdown Syntax:
@@ -63,10 +65,10 @@ In this reading we are going to talk about [Github](https://github.com/ )
 
    Definition  | markdown syntax
 ------------ | -------------
- List |- George Washington or 1. James Madison
-Headings|### largest heading or ##  the scond largest heading
-Links |[GitHub Pages](https://pages.github.com/).
-Emoji|You can add emoji to your writing by typing :EMOJICODE:.
+List | - George Washington or 1. James Madison
+Headings| ### largest heading or ##  the scond largest heading
+Links | [GitHub Pages] (https://pages.github.com/).
+Emoji| You can add emoji to your writing by typing :EMOJICODE:
 
 
       
