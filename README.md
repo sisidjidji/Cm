@@ -1,7 +1,7 @@
-# welcome to reading01
+# welcome To Reading01:
 
-> In this reading we are going to talk about [Github](https://github.com/ ) 
- 
+In this reading we are going to talk about [Github](https://github.com/ ) 
+
  1. GitHub Pages
    - Learning about GitHub
    - Using GitHub
@@ -13,54 +13,42 @@
    
 
 
- ## 1. GitHub Pages: 
-
-  ### - Learning about GitHub:
+## 1. GitHub Pages: 
+### - Learning about GitHub:
      Github is a space that allow devloppers to save and share there work . Github records changes to a file so we can recall specific versions later.
-
-     ### - create a repository :
+ ### - create a repository :
       A repository is like a folder for your project. Your project's repository contains all of your project's files and stores each file's revision history. 
       These are the step to create a repository :
-       1. Go to [Github.com](https://github.com/)
-       2. Login (if first time user you gonna ne need to sign in )
-       1. In the upper-right corner of any page, use the  drop-down menu, and select New repository.
+1. Go to [Github.com](https://github.com/)
+2. Login (if first time user you gonna ne need to sign in )
+3. In the upper-right corner of any page, use the  drop-down menu, and select New repository.
        ![](images/create-repository-name.png/)
-       2. Type a short, memorable name for your repository. For example, "hello-world".
-       ![](images/repo-create.png )
+4. Type a short, memorable name for your repository. For example, "hello-world".
+       ![](images/repo-create.png/)
 
-    ### - Somme Git command:
+### - Somme Git command:
 
-      > Git clone : this command allow us to import the repository on our local machine by using the following command :
+ > Git clone : this command allow us to import the repository on our local machine by using the following command :
 
-            ```
-              Git clone ' the path or the link to your repository'
+**Git clone ' the link to your repository'**
+        
+> Git status: we use this command to chack the status of our repository by using the following command :
+
+**git status**
+   
+> Git add : this command add all the modification 
+
+**Git add .**
+  
+> Git commit : Commit all local changes in tracked files
+
+**Git commit -md**
     
-            ```
-      
-      > Git status: we use this command to chack the status of our repository by using the following command :
+> Git push : command is used to upload local repository content to a remote repository
 
-            ```
-              Git status
+**Git push origin master**
     
-            ```
-     > Git add : this command add all the modification 
-
-            ```
-              Git add .
     
-            ```
-     > Git commit : Commit all local changes in tracked files
-
-            ```
-              Git commit -md 
-    
-            ```
-     > Git push : command is used to upload local repository content to a remote repository
-     
-            ```
-              Git push origin master
-    
-            ```
 
 ## 2.GitHub Markdown Syntax:
 
@@ -70,12 +58,12 @@
 
    Definition  | markdown syntax
 ------------ | -------------
- List|- George Washington
+ List |- George Washington
        1. James Madison
-Headings| ### largest heading
+Headings|### largest heading
           ##  the scond largest heading
-Links|[GitHub Pages](https://pages.github.com/).
- Emoji|You can add emoji to your writing by typing :EMOJICODE:.
+Links |[GitHub Pages](https://pages.github.com/).
+Emoji|You can add emoji to your writing by typing :EMOJICODE:.
 
 
       
