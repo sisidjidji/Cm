@@ -16,10 +16,10 @@ this reading:
 
 
 ## 1. GitHub Pages: 
-### 1.1  Learning about GitHub:
+###  Learning about GitHub:
      Github is a space that allow developers to save and share there work . Github records changes to a file
      so we can recall specific versions later.
- ### 1.2 create a repository :
+ ### create a repository :
      A repository is like a folder for your project. Your project's repository contains all of your project's 
      files and stores each file's revision history. 
      These are the step to create a repository :
@@ -30,6 +30,7 @@ this reading:
 
 3. In the upper-right corner of any page, use the  drop-down menu, and select New repository.
        ![](images/repo-create.png/)
+
 
 
 
