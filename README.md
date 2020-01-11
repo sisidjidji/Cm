@@ -6,18 +6,18 @@ this reading:
  1. GitHub Pages
    - Learning about GitHub
    - Using GitHub
-      - create a repository
+      - Create a Repository
       - Some Git commend
     
  2. GitHub Markdown Syntax
-   - define markdown
-   - 2.2 some markdown syntax
+   - Define markdown
+   - Some markdown syntax
    
 
 
 ## 1. GitHub Pages: 
 ### 1.1  Learning about GitHub:
-     Github is a space that allow devloppers to save and share there work . Github records changes to a file
+     Github is a space that allow developers to save and share there work . Github records changes to a file
      so we can recall specific versions later.
  ### 1.2 create a repository :
      A repository is like a folder for your project. Your project's repository contains all of your project's 
@@ -31,6 +31,8 @@ this reading:
 3. In the upper-right corner of any page, use the  drop-down menu, and select New repository.
        ![](images/repo-create.png/)
 
+
+
 4. Type a short, memorable name for your repository. For example, "hello-world".
        ![](images/create-repository-name.png/)
 
@@ -38,23 +40,23 @@ this reading:
 
 - **Git clone** : this command allow us to import the repository on our local machine by using the following command :
 
-       **Git clone ' the link to your repository'**
+       git clone ' the link to your repository'
         
 - **Git status**: we use this command to chack the status of our repository by using the following command :
 
-       **git status**
+       git status
    
 - **Git add** : this command add all the modification 
 
-      **Git add .**
+       git add .
   
 - **Git commit** : Commit all local changes in tracked files
 
-       **Git commit -md**
+       git commit -md
     
 - **Git push** : command is used to upload local repository content to a remote repository
 
-       **Git push origin master**
+       git push origin master
     
     
 ## 2.GitHub Markdown Syntax:
