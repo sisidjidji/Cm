@@ -16,10 +16,10 @@ this reading:
 
 
 ## 1. GitHub Pages: 
-###  Learning about GitHub:
+### - Learning about GitHub:
      Github is a space that allow developers to save and share there work . Github records changes to a file
      so we can recall specific versions later.
- ### create a repository :
+### - create a repository :
      A repository is like a folder for your project. Your project's repository contains all of your project's 
      files and stores each file's revision history. 
      These are the step to create a repository :
@@ -37,7 +37,7 @@ this reading:
 4. Type a short, memorable name for your repository. For example, "hello-world".
        ![](images/create-repository-name.png/)
 
-### Somme Git Command:
+### - Somme Git Command:
 
 - **Git clone** : this command allow us to import the repository on our local machine by using the following command :
 
@@ -62,9 +62,11 @@ this reading:
     
 ## 2.GitHub Markdown Syntax:
 
- ### 2.1- Define markdowns: 
+ ### - Define markdowns: 
+
  Markdown is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images,and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in.
- ### 2.2- Some markdown syntax
+
+ ### - Some markdown syntax
 
    Definition  | markdown syntax
 ------------ | -------------
